@@ -8,9 +8,9 @@ There is existing code in ```Parser.java```. It only handles the format of ```da
 ```javac Parser.java && java Parser ./data[A|B|C].out.txt```
 
 ## Checking Results
-### dataA  
-```c7314d51cd4fe9fd121f2637046a7aec```  
+### dataA 
+MD5 ```c7314d51cd4fe9fd121f2637046a7aec```  
 ### dataB  
-```6ddee1826f1985ee7bc5edb54cd92db6```  
+MD5 ```6ddee1826f1985ee7bc5edb54cd92db6```  
 ### dataC  
-```be321d011436058644e212ba4ac6cba4```  
+MD5 ```be321d011436058644e212ba4ac6cba4```  
