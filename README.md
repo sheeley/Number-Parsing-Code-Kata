@@ -14,7 +14,7 @@ There is existing code in ```Parser.java```. It only handles the format of ```da
 - Add unit tests
 
 
-## Running code 
+## Running Code 
 ```
 javac Parser.java
 java Parser ./dataA.out.txt
@@ -32,3 +32,6 @@ c7314d51cd4fe9fd121f2637046a7aec
 > java Parser ./dataC.out.txt
 be321d011436058644e212ba4ac6cba4
 ```
+
+## Bonus Round
+Handle a third format, used in ```bigData.trendy.txt```. It's larger than the other files. How fast can you parse it?
